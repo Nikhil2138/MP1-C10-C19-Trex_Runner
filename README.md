@@ -1,1 +1,4 @@
-# MP1-C10-C19-Trex_Runner
+# Trex Runner
+# This game is inspired by Google Trex Runner Game.
+# This game is created using P5 library of javaScript.
+# Created by - Nikhilansh Sisodia.
