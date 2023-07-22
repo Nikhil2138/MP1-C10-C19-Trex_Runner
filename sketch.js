@@ -142,6 +142,8 @@ function draw() {
      }
     }
 
+  gameOver.depth = gameOver.depth + 1;
+  restart.depth = restart.depth + 1;
 
   trex.collide(invisibleGround);
 
